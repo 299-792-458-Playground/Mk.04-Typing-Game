@@ -26,7 +26,7 @@ class TypingBattleGame:
 
     def __init__(self, root: tk.Tk) -> None:
         self.root = root
-        self.root.title("Eos")
+        self.root.title("Mk.04-Typing-Game")
         self.root.resizable(False, False)
 
         style = ttk.Style()
